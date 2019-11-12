@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 65866676065f94ac18b959c5f67588ef
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Love The Trees
+  fontNames:
+  - Love The Trees
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 73240ccc897f84faeb8dc03326c59fc7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
